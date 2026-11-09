@@ -1,6 +1,18 @@
-App Dinheiro sem Surpresas com Vibe Coding
+# App Dinheiro sem Surpresas com Vibe Coding
 
-**prompt final** (PRD):
+## Prompt final (PRD)
+
+# PRD - Organização de Finanças Pessoais por Conversa
+
+## Alecrim Digital
+
+**Versão:** 1.0  
+**Tipo:** MVP  
+**Idioma:** Português do Brasil  
+**Plataforma inicial:** Aplicação web responsiva  
+**Ferramenta de prototipação:** Lovable  
+
+---
 
 ```Markdown
 # PRD - Organização de Finanças Pessoais por Conversa
@@ -2133,70 +2145,80 @@ O MVP estará pronto para validação quando:
 - os requisitos principais da WCAG 2.2 AA forem avaliados;
 - os testes de usabilidade forem documentados.
 ```
-Interações com o Lovable:
+# Interações com o Lovable
+
 > Crie um App de finanças com base no seguinte PRD (Product Requirements Document): {PRD}
 
-> tirar a opção de incluir dados de exemplo
+> Tirar a opção de incluir dados de exemplo.
 
 > Adicione uma etapa obrigatória de cadastro antes de permitir o acesso às funcionalidades da plataforma.
 
-Resultado Final do Lovable: https://alecrimdigital.com.br/
+---
 
-<img width="1476" height="794" alt="image" src="https://github.com/user-attachments/assets/c09eb8bb-a107-4be0-9a14-4b990a1482ec" />
+# Resultado Final do Lovable
+
+[Acessar Alecrim Digital](https://alecrimdigital.com.br/)
+
+<img width="1452" height="803" alt="image" src="https://github.com/user-attachments/assets/f1282b8d-c28c-463c-b4f7-cf196d7d7a3e" />
 
 
+---
 
-> Um resumo do que o seu **App de Finanças Pessoais** faz:
-  
+# Um resumo do que o App de Finanças Pessoais faz
+
 Aplicação de finanças pessoais criada para facilitar o controle financeiro de pessoas iniciantes.
+
 A principal experiência da plataforma é o registro de receitas e despesas por meio de conversas em linguagem natural.
 
 A pessoa pode escrever uma mensagem como:
 
-"Gastei R$ 65,90 no supermercado pelo Nubank."
+> "Gastei R$ 65,90 no supermercado pelo Nubank."
 
 A plataforma interpreta a mensagem, identifica os dados da transação e apresenta as informações para confirmação antes de salvar.
+
 Além da experiência conversacional, a aplicação disponibiliza um formulário simplificado para registro manual.
 
-As principais funcionalidades são:
+## Principais funcionalidades
 
-- cadastro de usuários;
-- autenticação por e-mail e senha;
-- recuperação de senha;
-- cadastro de contas financeiras;
-- registro de receitas e despesas;
-- classificação automática de transações;
-- controle de contas recorrentes;
-- acompanhamento de vencimentos;
-- criação de metas financeiras;
-- painel com saldo consolidado;
-- relatórios por categoria e conta;
-- orientações educativas do Agente Financeiro;
-- interface responsiva;
-- recursos de acessibilidade;
-- alternativa estruturada ao chat.
+- Cadastro de usuários
+- Autenticação por e-mail e senha
+- Recuperação de senha
+- Cadastro de contas financeiras
+- Registro de receitas e despesas
+- Classificação automática de transações
+- Controle de contas recorrentes
+- Acompanhamento de vencimentos
+- Criação de metas financeiras
+- Painel com saldo consolidado
+- Relatórios por categoria e conta
+- Orientações educativas do Agente Financeiro
+- Interface responsiva
+- Recursos de acessibilidade
+- Alternativa estruturada ao chat
 
 O projeto utiliza design universal para proporcionar uma boa experiência ao maior número possível de pessoas, independentemente do dispositivo, da familiaridade digital ou do uso de tecnologias assistivas.
 
+---
 
-> Uma breve **reflexão sobre o processo**:
-  
-### O que funcionou bem?
-  -   A criação de um PRD antes do desenvolvimento ajudou a organizar a ideia e ter menos interações com a lovable.
-  -   Outro ponto positivo foi a possibilidade de refinar a solução por etapas.
-  -   Depois da primeira versão, foi possível identificar funcionalidades ausentes, como cadastro e autenticação, e solicitar ajustes específicos.
-  -   A definição da identidade visual também contribuiu para manter consistência entre cores, componentes e telas.
- 
-### O que não funcionou como o esperado?
-  -   Mesmo com um PRD detalhado, funcionalidades importantes, como cadastro e autenticação, precisaram ser solicitadas posteriormente.
-  -   Algumas instruções amplas foram interpretadas de forma parcial. Foi necessário transformar requisitos genéricos em comandos mais objetivos.
-    
-### O que aprendeu sobre conversar com IAs?
-  -   Aprendi que a qualidade do resultado depende diretamente da clareza e da estrutura do prompt.
-  -   Que a IA não substitui a análise humana.
-  -   Necessidade de revisar os resultados, identificar lacunas, testar os fluxos e solicitar correções.
-  -   O Vibe Coding tornou o desenvolvimento mais rápido e acessível.
-  -   Conversar com uma IA é um processo iterativo. Quanto mais específico for o feedback, maior será a chance de a ferramenta realizar a alteração esperada.
+# Uma breve reflexão sobre o processo
 
-> [!TIP]
+## O que funcionou bem?
+
+- A criação de um PRD antes do desenvolvimento ajudou a organizar a ideia e ter menos interações com o Lovable.
+- Outro ponto positivo foi a possibilidade de refinar a solução por etapas.
+- Depois da primeira versão, foi possível identificar funcionalidades ausentes, como cadastro e autenticação, e solicitar ajustes específicos.
+- A definição da identidade visual também contribuiu para manter consistência entre cores, componentes e telas.
+
+## O que não funcionou como o esperado?
+
+- Mesmo com um PRD detalhado, funcionalidades importantes, como cadastro e autenticação, precisaram ser solicitadas posteriormente.
+- Algumas instruções amplas foram interpretadas de forma parcial. Foi necessário transformar requisitos genéricos em comandos mais objetivos.
+
+## O que aprendeu sobre conversar com IAs?
+
+- Aprendi que a qualidade do resultado depende diretamente da clareza e da estrutura do prompt.
+- A IA não substitui a análise humana.
+- É necessário revisar os resultados, identificar lacunas, testar os fluxos e solicitar correções.
+- O Vibe Coding tornou o desenvolvimento mais rápido e acessível.
+- Conversar com uma IA é um processo iterativo. Quanto mais específico for o feedback, maior será a chance de a ferramenta realizar a alteração esperada.
 
